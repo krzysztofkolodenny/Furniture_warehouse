@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Magazyn:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Magazyn_jar</output-path>
+    <root id="archive" name="Magazyn.jar">
+      <element id="module-output" name="Magazyn" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/log4j-core-2.12.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mysql-connector-java-8.0.18.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/log4j-api-2.12.1.jar" path-in-jar="/" />
+      <element id="library" level="project" name="apache-log4j-2.12" />
+    </root>
+  </artifact>
+</component>

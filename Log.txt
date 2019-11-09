@@ -1,0 +1,84 @@
+2019-11-04 23:17:01,022 TRACE Log4j [main] Struktura połączenia: db.conn.url=jdbc:mysql://localhost:55555/magazyn?serverTimezone=UTC
+2019-11-04 23:19:05,833 TRACE Log4j [main] Struktura połączenia: db.conn.url=jdbc:mysql://localhost:55555/magazyn?serverTimezone=UTC
+2019-11-04 23:20:30,602 TRACE Log4j [main] Struktura połączenia: db.conn.url=jdbc:mysql://localhost:55555/magazyn?serverTimezone=UTC
+2019-11-04 23:32:26,431 TRACE Log4j [main] Struktura połączenia: db.conn.url=jdbc:mysql://localhost:55555/magazyn?serverTimezone=UTC
+2019-11-04 23:34:21,802 TRACE Log4j [main] Struktura połączenia: db.conn.url=jdbc:mysql://localhost:55555/magazyn?serverTimezone=UTC
+2019-11-04 23:34:21,954 TRACE Log4j [main] Wykonales zapytanie: select * FROM produkt
+2019-11-04 23:35:41,140 TRACE Log4j [main] Struktura połączenia: db.conn.url=jdbc:mysql://localhost:55555/magazyn?serverTimezone=UTC
+2019-11-04 23:35:41,287 TRACE Log4j [main] Wykonales zapytanie: select * FROM produkt
+2019-11-04 23:36:11,494 TRACE Log4j [main] Struktura połączenia: db.conn.url=jdbc:mysql://localhost:55555/magazyn?serverTimezone=UTC
+2019-11-04 23:36:11,642 TRACE Log4j [main] 
+Wykonales zapytanie: select * FROM produkt
+2019-11-04 23:36:52,375 TRACE Log4j [main] Struktura połączenia: db.conn.url=jdbc:mysql://localhost:55555/magazyn?serverTimezone=UTC
+2019-11-04 23:36:52,536 TRACE Log4j [main] 
+Wykonales zapytanie: select * FROM produkt
+2019-11-04 23:37:28,657 TRACE Log4j [main] Struktura połączenia: db.conn.url=jdbc:mysql://localhost:55555/magazyn?serverTimezone=UTC
+2019-11-04 23:37:28,802 TRACE Log4j [main] 
+Wykonales zapytanie: select * FROM produkt
+2019-11-04 23:38:10,684 TRACE Log4j [main] Struktura połączenia: db.conn.url=jdbc:mysql://localhost:55555/magazyn?serverTimezone=UTC
+2019-11-04 23:38:10,831 TRACE Log4j [main] Wykonales zapytanie: select * FROM produkt
+2019-11-04 23:38:31,009 TRACE Log4j [main] Struktura połączenia: db.conn.url=jdbc:mysql://localhost:55555/magazyn?serverTimezone=UTC
+2019-11-04 23:38:31,146 TRACE Log4j [main] Wykonales zapytanie: select * FROM produkt
+2019-11-04 23:39:22,300 TRACE Log4j [main] Struktura połączenia: db.conn.url=jdbc:mysql://localhost:55555/magazyn?serverTimezone=UTC
+2019-11-04 23:39:22,432 TRACE Log4j [main] Wykonales zapytanie: select * FROM produkt
+2019-11-04 23:39:46,819 TRACE Log4j [main] Struktura połączenia: db.conn.url=jdbc:mysql://localhost:55555/magazyn?serverTimezone=UTC
+2019-11-04 23:39:46,957 TRACE Log4j [main] Wykonales zapytanie: select * FROM produkt
+2019-11-04 23:50:24,555 TRACE Log4j [main] Struktura połączenia: db.conn.url=jdbc:mysql://localhost:55555/magazyn?serverTimezone=UTC
+2019-11-04 23:50:38,919 TRACE Log4j [main] Wykonales zapytanie: insert into produkt(nazwa_prod,material,typ,cena) nazwa_prod=produktH, material=materialH, typ=typH, cena=250.0
+
+2019-11-04 23:53:40,430 TRACE Log4j [main] Struktura połączenia: db.conn.url=jdbc:mysql://localhost:55555/magazyn?serverTimezone=UTC
+2019-11-04 23:54:56,483 TRACE Log4j [main] Struktura połączenia: db.conn.url=jdbc:mysql://localhost:55555/magazyn?serverTimezone=UTC
+2019-11-04 23:55:43,242 TRACE Log4j [main] Struktura połączenia: db.conn.url=jdbc:mysql://localhost:55555/magazyn?serverTimezone=UTC
+2019-11-04 23:55:53,436 TRACE Log4j [main] Wykonales zapytanie: update produkt SET nazwa_prod=vi, material=vivi, typ=vivivi, cena=5000.0
+
+2019-11-04 23:56:00,134 TRACE Log4j [main] Struktura połączenia: db.conn.url=jdbc:mysql://localhost:55555/magazyn?serverTimezone=UTC
+2019-11-04 23:56:00,267 TRACE Log4j [main] Wykonales zapytanie: SELECT * FROM produkt
+2019-11-04 23:57:50,556 TRACE Log4j [main] Struktura połączenia: db.conn.url=jdbc:mysql://localhost:55555/magazyn?serverTimezone=UTC
+2019-11-04 23:57:56,906 TRACE Log4j [main] Wykonales zapytanie: delete FROM produkt where id_prod=2
+
+2019-11-04 23:58:10,911 TRACE Log4j [main] Struktura połączenia: db.conn.url=jdbc:mysql://localhost:55555/magazyn?serverTimezone=UTC
+2019-11-04 23:58:11,047 TRACE Log4j [main] Wykonales zapytanie: SELECT * FROM produkt
+2019-11-05 00:00:48,953 TRACE Log4j [main] Struktura połączenia: db.conn.url=jdbc:mysql://localhost:55555/magazyn?serverTimezone=UTC
+2019-11-05 00:01:00,335 TRACE Log4j [main] Wykonales zapytanie: insert into produkt(nazwa_prod,material,typ,cena) nazwa_prod=ProduktC, material=materialC, typ=typC, cena=400.0
+
+2019-11-05 00:01:14,925 TRACE Log4j [main] Struktura połączenia: db.conn.url=jdbc:mysql://localhost:55555/magazyn?serverTimezone=UTC
+2019-11-05 00:01:15,059 TRACE Log4j [main] Wykonales zapytanie: SELECT * FROM produkt
+2019-11-05 00:03:01,542 TRACE Log4j [main] Struktura połączenia: db.conn.url=jdbc:mysql://localhost:55555/magazyn?serverTimezone=UTC
+2019-11-05 00:03:11,470 TRACE Log4j [main] Wykonales zapytanie: update produkt SET nazwa_prod=produktF, material=materialF, typ=typF, cena=250.0
+
+2019-11-05 00:03:28,920 TRACE Log4j [main] Struktura połączenia: db.conn.url=jdbc:mysql://localhost:55555/magazyn?serverTimezone=UTC
+2019-11-05 00:03:29,055 TRACE Log4j [main] Wykonales zapytanie: SELECT * FROM produkt
+2019-11-05 00:04:29,923 TRACE Log4j [main] Struktura połączenia: db.conn.url=jdbc:mysql://localhost:55555/magazyn?serverTimezone=UTC
+2019-11-05 00:04:31,471 TRACE Log4j [main] Wykonales zapytanie: delete FROM produkt where id_prod=1
+
+2019-11-05 00:04:40,215 TRACE Log4j [main] Struktura połączenia: db.conn.url=jdbc:mysql://localhost:55555/magazyn?serverTimezone=UTC
+2019-11-05 00:04:40,361 TRACE Log4j [main] Wykonales zapytanie: SELECT * FROM produkt
+2019-11-05 20:29:17,987 TRACE Log4j [main] Struktura połączenia: db.conn.url=jdbc:mysql://localhost:55555/magazyn?serverTimezone=UTC
+2019-11-05 20:29:18,185 TRACE Log4j [main] Wykonales zapytanie: SELECT * FROM produkt
+2019-11-05 20:30:38,085 TRACE Log4j [main] Struktura połączenia: db.conn.url=jdbc:mysql://localhost:55555/magazyn?serverTimezone=UTC
+2019-11-05 20:30:38,226 TRACE Log4j [main] Wykonales zapytanie: SELECT * FROM produkt
+2019-11-05 21:29:20,910 TRACE Log4j [main] Struktura połączenia: db.conn.url=jdbc:mysql://localhost:55555/magazyn?serverTimezone=UTC
+2019-11-05 21:29:21,046 TRACE Log4j [main] Wykonales zapytanie: SELECT * FROM produkt
+2019-11-05 22:00:06,597 TRACE Log4j [main] Struktura połączenia: db.conn.url=jdbc:mysql://localhost:55555/magazyn?serverTimezone=UTC
+2019-11-05 22:00:06,729 TRACE Log4j [main] Wykonales zapytanie: SELECT * FROM produkt
+2019-11-05 22:00:18,141 TRACE Log4j [main] Struktura połączenia: db.conn.url=jdbc:mysql://localhost:55555/magazyn?serverTimezone=UTC
+2019-11-05 22:00:37,667 TRACE Log4j [main] Wykonales zapytanie: insert into produkt(nazwa_prod,material,typ,cena) nazwa_prod=produkcik, material=produkcikZMaterialu, typ=produkcikZTypu, cena=353.0
+
+2019-11-05 22:00:43,640 TRACE Log4j [main] Struktura połączenia: db.conn.url=jdbc:mysql://localhost:55555/magazyn?serverTimezone=UTC
+2019-11-05 22:00:43,776 TRACE Log4j [main] Wykonales zapytanie: SELECT * FROM produkt
+2019-11-05 22:00:58,602 TRACE Log4j [main] Struktura połączenia: db.conn.url=jdbc:mysql://localhost:55555/magazyn?serverTimezone=UTC
+2019-11-05 22:01:17,916 TRACE Log4j [main] Wykonales zapytanie: update produkt SET nazwa_prod=propo, material=sda, typ=sasdsa, cena=24.0
+
+2019-11-05 22:01:24,760 TRACE Log4j [main] Struktura połączenia: db.conn.url=jdbc:mysql://localhost:55555/magazyn?serverTimezone=UTC
+2019-11-05 22:01:24,893 TRACE Log4j [main] Wykonales zapytanie: SELECT * FROM produkt
+2019-11-05 22:01:32,695 TRACE Log4j [main] Struktura połączenia: db.conn.url=jdbc:mysql://localhost:55555/magazyn?serverTimezone=UTC
+2019-11-05 22:01:36,216 TRACE Log4j [main] Wykonales zapytanie: delete FROM produkt where id_prod=2
+
+2019-11-05 22:01:46,410 TRACE Log4j [main] Struktura połączenia: db.conn.url=jdbc:mysql://localhost:55555/magazyn?serverTimezone=UTC
+2019-11-05 22:01:46,541 TRACE Log4j [main] Wykonales zapytanie: SELECT * FROM produkt
+2019-11-05 22:05:04,926 TRACE Log4j [main] Struktura połączenia: db.conn.url=jdbc:mysql://localhost:55555/magazyn?serverTimezone=UTC
+2019-11-05 22:05:05,062 TRACE Log4j [main] Wykonales zapytanie: SELECT * FROM produkt
+2019-11-06 09:30:15,970 TRACE Log4j [main] Struktura połączenia: db.conn.url=jdbc:mysql://localhost:55555/magazyn?serverTimezone=UTC
+2019-11-06 09:30:16,147 TRACE Log4j [main] Wykonales zapytanie: SELECT * FROM produkt
+2019-11-06 09:48:29,811 TRACE Log4j [main] Struktura połączenia: db.conn.url=jdbc:mysql://localhost:55555/magazyn?serverTimezone=UTC
+2019-11-06 09:48:29,944 TRACE Log4j [main] Wykonales zapytanie: SELECT * FROM produkt
